@@ -1,0 +1,73 @@
+TODO:
+- optimize the falling objects/bullets by kill() after they go off screen
+- more weapons
+
+Enemy:
+    Sir Topham Hatt
+        - first half of HP
+        - attack 1: spitting
+            - open mouth spittle
+            - same movements as normal, non attacking
+        - attack 2: spitting continuous
+            - attack 1 to the extreme
+            - if you come too close to the boss
+        - attack 3: punch
+            - warning symbol
+            - extend arm to punch (fast attack slow retreat)
+        - attack 4: words (parry) // HAVE IT BEHIND THE HEAD/BODY OF THE BOSS
+            - words shrink/grow in size
+            - first word down, second up, third down, etc
+        - attack 5: ATM
+            - red ATM: triggers when near
+            - blue ATM: triggers when under
+            - fast moving dollars coming down from ATMs
+        - cycle through attacks until halfway done with HP
+
+    The TopHat
+        - second half of HP
+        - attack 1: dash
+            - dashes forward (very fast)
+            - warning sign
+        - attack 2: polishing oil (parry) // make this last? liquid fills up entire screen gradually
+            - dark droplets fall, dodge these
+            - bottom of screen gradually fills until halfway
+        - attack 3: top hats (parry)
+            - hats that follow player
+            - explode when same y location
+            - players can attack these hats
+        - attack 4: speaking
+            - three split attack
+        - cycle through attacks until halfway done with HP
+
+     Dowager:
+        - exploding flowers
+            - petals fan out from explosion
+            - three come out at a time, large one will explode
+        - moving forward and back
+        - babies flying forward with trail of tears on either side
+            - need to parry baby to get rid of it
+        - fire mode -> shoots fire that follows you, you have to kill it to get rid of it
+        - flowers again - >tiny fanning out bullets from one central area
+            - while dodging arms that stick up and down
+
+
+Attack:
+    attack 1: basic
+        - strength: boss health / 500
+        - speed: fast
+        - special attack: even faster attack
+    attack 2: slow but strong
+        - strength: boss health / 250
+        - speed: slow
+        - special attack: one large attack/bullet
+
+Achievements:
+
+Include in Description:
+    MUST:
+        Retro Saloon - Welcome To The Past by Free Music | https://soundcloud.com/fm_freemusic
+        Music promoted by https://www.free-stock-music.com
+        Creative Commons Attribution 3.0 Unported License
+        https://creativecommons.org/licenses/by/3.0/deed.en_US
+
+
