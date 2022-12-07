@@ -27,11 +27,11 @@ The story begins as Thomas is not satisfied with working on Christmas. A shootin
 
 ![The music selection screen.](https://github.com/mandyschen/thomasGame/blob/main/screenshots/music_menu_sc.png)
 
-**Sir Tophamm**
+**The First Boss (Easy): Sir Tophamm**
 
 ![Image of the first boss. It is a man meant to be Sir Tophamm Hatt.](https://github.com/mandyschen/thomasGame/blob/main/screenshots/sir_tophamm_sc.png)
 
-**Hatt**
+**The Second Boss (Difficult): Hatt**
 
 ![Image of the second boss. It is a large top hat.](https://github.com/mandyschen/thomasGame/blob/main/screenshots/hatt_sc.png)
 
