@@ -15,7 +15,7 @@ The player controls Thomas the Train using either arrow keys or WASD as he dodge
 ### Visuals
 **Menu**
 
-![alt text](https://github.com/[mandyschen]/[thomasGame]/blob/[main]/menu_sc?raw=true)
+![image](https://github.com/mandyschen/thomasGame/blob/main/screenshots/hatt_sc.png)
 
 **Instructions**
 
