@@ -15,21 +15,21 @@ The player controls Thomas the Train using either arrow keys or WASD as he dodge
 ### Visuals
 **Menu**
 
-![image](https://github.com/mandyschen/thomasGame/blob/main/screenshots/hatt_sc.png)
+![The menu selection screen.](https://github.com/mandyschen/thomasGame/blob/main/screenshots/menu_sc.png)
 
 **Instructions**
 
-![image](https://user-images.githubusercontent.com/68432655/190905054-2757ff47-aa7e-4c35-aa43-0b4f98620f02.png)
+![Instructions.](https://github.com/mandyschen/thomasGame/blob/main/screenshots/instructions_sc.png)
 
 **Music Selection**
 
-![image](https://user-images.githubusercontent.com/68432655/190905054-2757ff47-aa7e-4c35-aa43-0b4f98620f02.png)
+![The music selection screen.](https://github.com/mandyschen/thomasGame/blob/main/screenshots/music_menu_sc.png)
 
 **Sir Tophamm**
 
-![gameinterface](https://user-images.githubusercontent.com/68432655/190902034-82dc04b5-8549-4ddf-8c3b-d7aa9c008718.png)
+![Image of the first boss. It is a man meant to be Sir Tophamm Hatt.](https://github.com/mandyschen/thomasGame/blob/main/screenshots/sir_tophamm_sc.png)
 
 **Hatt**
 
-![diffchar](https://user-images.githubusercontent.com/68432655/190902032-55ce161d-48b2-4cd9-b8ba-9c3ea02eb633.png)
+![Image of the second boss. It is a large top hat.](https://github.com/mandyschen/thomasGame/blob/main/screenshots/hatt_sc.png)
 
