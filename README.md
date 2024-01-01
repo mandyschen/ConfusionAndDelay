@@ -35,3 +35,7 @@ The story begins as Thomas is not satisfied with working on Christmas. A shootin
 
 ![Image of the second boss. It is a large top hat.](https://github.com/mandyschen/thomasGame/blob/main/screenshots/hatt_sc.png)
 
+### How to Play
+1. Download a code editor such as PyCharm, VsCode, etc.
+2. Make a copy of the repository
+3. Click run!
