@@ -35,5 +35,3 @@ The story begins as Thomas is not satisfied with working on Christmas. A shootin
 
 ![Image of the second boss. It is a large top hat.](https://github.com/mandyschen/thomasGame/blob/main/screenshots/hatt_sc.png)
 
-### Future Plans
-Before Christmas, I intend to add a third boss (currently in progress) as well as add a more diverse selection of weapons.
